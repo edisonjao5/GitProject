@@ -1,0 +1,22 @@
+.container{
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 450px;
+    border-radius: 50px 25px;
+    border: 10px ridge #008000;
+    box-shadow: 5px 5px 10px 10px inset #9b9999;
+    max-width: 400px;
+    padding: 7px;
+}
+
+.container img{
+    max-width: 300px;
+}
+
+#red{
+    color: #8b0000;
+}
+
+#purple{
+    color: #800080;
+}
